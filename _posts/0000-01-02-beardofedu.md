@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+When people ask if I like teaching people about GitHub.
 
-![codercat](https://octodex.github.com/images/codercat.jpg)
+![freak yes](https://media.giphy.com/media/xUA7b4ZYfMhrAaUJDW/giphy.gif)
 {: .center}
